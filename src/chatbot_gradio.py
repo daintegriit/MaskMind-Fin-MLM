@@ -20,10 +20,10 @@ def predict(prompt):
     return output
 
 # Gradio Interface
-with gr.Blocks(title="MaskMind: Financial Mask-Filler LLM") as demo:
+with gr.Blocks(title="MaskMind: Financial Mask-Filler MLM") as demo:
     gr.Markdown(
         """
-        # <div align="center">🧠 MaskMind: Financial Mask-Filler LLM</div>
+        # <div align="center">🧠 MaskMind: Financial Mask-Filler MLM</div>
 
         <div align="center">Fine-tuned exclusively on <b>Apple's SEC 10-K Annual Reports</b>.</div><br><br>
 
