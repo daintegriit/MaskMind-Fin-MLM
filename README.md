@@ -1,4 +1,4 @@
-🧠 MaskMind: Financial Mask-Filler LLM
+🧠 MaskMind: Financial Mask-Filler MLM
 Fine-tuned exclusively on Apple's SEC 10-K annual reports.
 
 🎯 Problem Statement
